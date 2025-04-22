@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ashfaq Vishu</h1>
-<h3 align="center">Full Stack web developer| JavaScript| MERN Stack| Ics student| ai ml enustiest</h3>
+<h3 align="center">Full Stack web developer| JavaScript| MERN Stack| ICS student| Ai Ml enustiest</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadashfaq09&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadashfaq09" /> </p>
 
