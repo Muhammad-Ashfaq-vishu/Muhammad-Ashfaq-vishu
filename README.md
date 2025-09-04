@@ -11,13 +11,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/muhammadAshfaq09](https://github.com/muhammadAshfaq09)
 
-- 📝 I regularly write articles on [https://ashfaq-vishu-protpolio.vercel.app/](https://ashfaq-vishu-protpolio.vercel.app/)
+- 📝 I regularly write articles on [ashfaqvishu.site)
 
 - 💬 Ask me about **Html, CSS, JavaScript, Tailwind, Bootstrap, material ui, React.js Node.js Express.js, SQL, MySQL, Mongodb, Version control**
 
 - 📫 How to reach me **ashfaqvishu@gmail.com**
 
-- 📄 Know about my experiences [https://ashfaq-vishu-protpolio.vercel.app/](https://ashfaq-vishu-protpolio.vercel.app/)
+- 📄 Know about my experiences [ashfaqvishu.site)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
