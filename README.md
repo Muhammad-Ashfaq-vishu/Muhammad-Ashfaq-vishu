@@ -167,8 +167,8 @@
 │  🖥️ System      │                                                            │
 │  📶 Network     │  Developer          Muhammad Ashfaq Vishu                 │
 │  🎨 Appearance  │  Edition            MERN Stack Professional               │
-│  🔑 Accounts    │  Version            6.0.2026  (Karachi Build)             │
-│  🕹️ Gaming      │  Installed RAM      6+ Years Experience                   │
+│  🔑 Accounts    │  Version            6.0.2026  (peshawar  Build)             │
+│  🕹️ Gaming      │  Installed RAM      3+ Years Experience                   │
 │  🔒 Privacy     │  Processor          React · Next.js · Node.js             │
 │  🔄 Updates     │  System Type        Full-Stack  ·  Agentic AI             │
 │  ─────────────  │                                                            │
