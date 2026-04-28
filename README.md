@@ -17,7 +17,7 @@
 │                                                                             │
 │   ┌──────────────┐    Name      :  Muhammad Ashfaq Vishu                   │
 │   │              │    Title     :  MERN Stack & Frontend Developer          │
-│   │   👨‍💻  DEV   │    Location  :  Karachi, Pakistan  🇵🇰                   │
+│   │   👨‍💻  DEV   │    Location  :  peshawar , Pakistan  🇵🇰                   │
 │   │    PROFILE   │    Website   :  ashfaqvishu.site                        │
 │   │              │    Email     :  ashfaqvishu@gmail.com                   │
 │   └──────────────┘    LinkedIn  :  linkedin.com/in/ashfaq4                 │
@@ -195,13 +195,13 @@
 ├────────┬───────────────────┬──────────────────────────────────────────────────┤
 │  Level │  Date             │  Source · Description                           │
 ├────────┼───────────────────┼──────────────────────────────────────────────────┤
-│  ✅ OK │  2019-01-01       │  init.exe      — HTML/CSS · Web Fundamentals    │
-│  ✅ OK │  2020-01-01       │  upgrade.exe   — JavaScript Mastery · DOM APIs  │
-│  ✅ OK │  2021-01-01       │  install.exe   — React.js · Component Pattern   │
-│  ✅ OK │  2022-01-01       │  expand.exe    — Node + Express + MongoDB MERN  │
-│  ✅ OK │  2023-01-01       │  level_up.exe  — Next.js · TypeScript · Adv.   │
-│  ✅ OK │  2024-01-01       │  optimize.exe  — Redux · API Design · Perf.     │
-│  🔄 RN │  2025-01-01       │  ai_boot.exe   — LangGraph · LLM Orchestration │
+│  ✅ OK │  2023-01-01       │  init.exe      — HTML/CSS · Web Fundamentals    │
+│  ✅ OK │  2024-01-01       │  upgrade.exe   — JavaScript Mastery · DOM APIs  │
+│  ✅ OK │  2025-01-01       │  install.exe   — React.js · Component Pattern   │
+│  ✅ OK │  2025-01-01       │  expand.exe    — Node + Express + MongoDB MERN  │
+│  ✅ OK │  2025-01-01       │  level_up.exe  — Next.js · TypeScript · Adv.   │
+│  ✅ OK │  2025-01-01       │  optimize.exe  — Redux · API Design · Perf.     │
+│  🔄 RN │  2026-01-01       │  ai_boot.exe   — LangGraph · LLM Orchestration │
 │  ⏳ WIP│  2026-01-01       │  future.exe    — 🚀  Next chapter loading...    │
 └────────┴───────────────────┴──────────────────────────────────────────────────┘
 ```
@@ -314,6 +314,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0078d4,50:0d2137,100:0a0a0a&height=100&section=footer&text=&fontSize=1" />
 
-<sub>⊞ Ashfaq.exe is running — Powered by ☕ · Crafted in Karachi, Pakistan 🇵🇰 · 2026</sub>
+<sub>⊞ Ashfaq.exe is running — Powered by ☕ · Crafted in peshawar , Pakistan 🇵🇰 · 2026</sub>
 
 </div>
