@@ -314,6 +314,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0078d4,50:0d2137,100:0a0a0a&height=100&section=footer&text=&fontSize=1" />
 
-<sub>⊞ Ashfaq.exe is running — Powered by ☕ · Crafted in peshawar , Pakistan 🇵🇰 · 2026</sub>
+<sub>⊞ Ashfaq.exe is running — Powered by ☕ · Crafted in peshawar , Pakistan · 2026</sub>
 
 </div>
